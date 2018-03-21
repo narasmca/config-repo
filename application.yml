@@ -6,8 +6,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-first: test 1
-second: config test
+fist: ok
+second:ok
 
 ---
 spring:
