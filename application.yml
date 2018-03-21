@@ -6,8 +6,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: spring fjkfdj
-bar: config test
+first: spring fjkfdj
+second: config test
 
 ---
 spring:
