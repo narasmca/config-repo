@@ -6,7 +6,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
       
-foo: Roshine
+foo: Testing
 bar: config test
 
 ---
